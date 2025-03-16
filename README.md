@@ -1,5 +1,5 @@
 
-# Proyecto Storytelling (template): 
+# Proyecto Storytelling (template): Carteras Contrapuestas
 ### my_storytelling
 Plantilla para crear mi historia interactiva de la asignatura [Creatividad e innovación Audiovisual](https://www.ugr.es/estudiantes/grados/grado-comunicacion-audiovisual/creacion-difusion-nuevos-contenidos-audiovis), repositorio de proyectos y documentación en https://github.com/mgea/storytelling
 
@@ -20,20 +20,25 @@ URL (link) del proyecto en Github:
 
 
 Tipo/Género:  
-- [x] FictionCiberpunk  
-- [ ] Reality/tribus urbanas  
+- [ ] FictionCiberpunk  
+- [x] Reality/tribus urbanas  
 - [ ] Comic
 
 
 
 ## Resumen
 
+En un fría noche de invierno, dos personajes con objetivos muy distintos se conocen en una situación peculiar: han escogido el mismo banco para cometer el robo del siglo. Melody, una cantante y actriz que ansía fama y dinero para poder comprarse uno de los artículos más demandados del siglo XXI: un Birkin; y Gottfried, Engelbert Cornelius, un viejo millonario antisocial caído en desgracia que sueña con recuperar la fortuna perdida, se enzarzarán en una aventura por lograr robar el banco más importante del país, cada uno a su manera.  
 
 ### Personaje
 
-![](img-nobody.png)
+![WhatsApp Image 2025-03-16 at 12 08 52](https://github.com/user-attachments/assets/7104378d-8eb9-41ca-bc8e-234d6e97b0c5)
 
-Nombre: 
+
+Nombre: Melody
+
+
+Nombre: Gottfried Engelbert Cornelius (Cornelius)
 
 
 ### Historia
@@ -47,7 +52,7 @@ Nombre:
 
 ### Productos
 
-- Personaje: (img personaje y enlace a interactivo) 
+- Personaje: [¿Qué tipo de ladrón eres? ](https://app.lumi.education/h5p/qu-tipo-de-ladrn-eres-oabmgv)
 
 
 - Banner/Teaser:  (enlace) 
