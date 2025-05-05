@@ -55,9 +55,9 @@ Nombre: Gottfried Engelbert Cornelius (Cornelius)
 - Personaje: [¿Qué tipo de ladrón eres? ](https://app.lumi.education/h5p/qu-tipo-de-ladrn-eres-oabmgv)
 
 
-- Banner/Teaser:  Figma - ¿Cómo se conocieron Melody y Cornelius?
+- Banner/Teaser:  [Figma - ¿Cómo se conocieron Melody y Cornelius?](https://www.figma.com/design/oFMRWzKcpUX11Cy3W3iU4T/Instagram-UI-Profile---Feed----NightWin--Community-?node-id=0-1&t=ARS1UDNInTX8oNSE-1)
 
-  [Arcweave: El robo de Melody] (https://arcweave.com/app/project/YR6RJoq6VJ)
+  Arcweave: [El robo de Melody](https://arcweave.com/app/project/YR6RJoq6VJ)
 
 
 - Storytelling: (enlace) 
